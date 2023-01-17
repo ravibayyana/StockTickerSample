@@ -39,8 +39,12 @@ Client
 - Few units tests are written for server need to write more
 
 # ScreenShots 
+> Three instances displaying same ticks 
+
 
 # Real time gif
+
+> Realtime view 3 client instances and server 
 
 
  

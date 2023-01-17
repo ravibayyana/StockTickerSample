@@ -17,7 +17,7 @@ An arrow is displayed based on the value is up or down when compared to previous
 
 # How to run
 
-- Clone git project
+- Clone git repo StockTickerSample
 
 Server
 

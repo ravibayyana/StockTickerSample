@@ -3,8 +3,8 @@
 
 Server publishes stock price ticks at 1 sec interval
 
-Clients subscribed will display stock prices in a grid and shows an 
-indicator wheter the price went up or down  
+React client subscribed will display stock prices in a grid and shows an 
+indicator to show the price went up or down  
 
 ## Server (C#, .Net Core 6, SignalR)
 

@@ -41,10 +41,13 @@ Client
 # ScreenShots 
 > Three instances displaying same ticks 
 
+![](PriceTicker3Instances.jpg)
 
 # Real time gif
 
 > Realtime view 3 client instances and server 
+
+![](StockPriceTicker.gif)
 
 
  

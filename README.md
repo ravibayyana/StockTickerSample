@@ -28,6 +28,7 @@ Server
 Client
 - open "StockTickerSample\StockerTickerReactClient\stock-ticker-client" in VS code
 - open terminal and run the following command 
+- npm install
 - npm start
 
 # Improvements 
